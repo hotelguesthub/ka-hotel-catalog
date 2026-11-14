@@ -7,9 +7,22 @@
     "supportedLanguages": [
       "en",
       "tr",
-      "ru"
+      "ru",
+      "ar",
+      "fr",
+      "es"
     ],
-    "logo": "logo.jpg"
+    "logo": "logo.jpg",
+    "guestHub": {
+      "checkin": "14:00",
+      "checkout": "12:00",
+      "breakfastAvailable": false,
+      "wifiName": "Ka Hotel & Suites",
+      "address": "Şehsuvar Bey, Kadırga Limanı Cd. No:52, 34126 Fatih/İstanbul",
+      "phone": "+902129682121",
+      "whatsappNumber": "902129682121",
+      "cafeOrderingEnabled": false
+    }
   },
   "currency": "EUR",
   "categories": [
